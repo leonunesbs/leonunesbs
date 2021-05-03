@@ -1,4 +1,4 @@
-# Olá visitante, bem vindo ao meu perfil do Github!
+# Olá visitante, seja bem vindo ao meu perfil do Github!
 
 ## Apresentação
 - 👋. Olá, sou ```@leonunesbs```
