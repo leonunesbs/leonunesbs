@@ -3,7 +3,7 @@
 ## Apresentação
 - 👋. Olá, Sou Leonardo (@leonunesbs)
 - 📚. Acadêmico de medicina, atualmente cursando o 7º período.
-- 💻. Sou curioso, inquieto, aventureiro e apaixonado por tecnologia
+- 💻. Sou curioso, inquieto, aventureiro e apaixonado por tecnologia.
 - 💼. Atualmente me ocupando principalmente com atividades pessoais relacionados à web design.
 - 📫. Entre em contato comigo buscando pelo meu @leonunesbs em qualquer rede social.
 
