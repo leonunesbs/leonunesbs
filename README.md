@@ -1,10 +1,11 @@
-# Bem vindo ao meu perfil do Github
+# Olá visitante, bem vindo ao meu perfil do Github!
 
 ## Apresentação
-- 👋. Olá, Sou Leonardo (@leonunesbs)
-- 📚. Acadêmico de medicina, atualmente cursando o 7º período.
-- 💻. Sou curioso, inquieto, aventureiro e apaixonado por tecnologia.
-- 💼. Atualmente me ocupando principalmente com atividades pessoais relacionados à web design.
+- 👋. Olá, sou @leonunesbs
+- 👤. Leonardo Nunes
+- 📚. Acadêmico de medicina ```7/12```.
+- 💻. Forte interesse por grandes projetos, desafios, aventuras, novos conhecimentos e EXPERIÊNCIAS.
+- 💼. Ocupado principalmente com atividades pessoais relacionados à web design.
 - 📫. Entre em contato comigo buscando pelo meu @leonunesbs em qualquer rede social.
 
 <!---
