@@ -1,6 +1,6 @@
 # Olá visitante, seja bem vindo ao meu perfil do Github!
 
-## Quem sou?
+## Quem?
 - 👋. Olá, me chamo Leonardo Nunes
 - 👤. ```@leonunesbs```
 - 📚. Acadêmico de medicina ```7/12```.
