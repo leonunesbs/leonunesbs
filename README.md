@@ -5,7 +5,7 @@
 - 👤. ```@leonunesbs```
 - 📚. Acadêmico de medicina ```7/12```.
 - 💻. Vislumbrado por grandes projetos, desafios, aventuras, novos conhecimentos e EXPERIÊNCIAS.
-- 💼. Ocupado principalmente com atividades pessoais relacionados à web design.
+- 💼. Estágio em consultas ambulatoriais pediátricas e dermatológicas. Web development nas horas vagas.
 - 📫. Entre em contato comigo buscando pelo meu perfil ```@leonunesbs``` em qualquer rede social, ou nos links abaixo.
 
 ## Meus projetos
