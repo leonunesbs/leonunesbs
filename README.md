@@ -8,8 +8,8 @@
 - 💼. Ocupado principalmente com atividades pessoais relacionados à web design.
 - 📫. Entre em contato comigo buscando pelo meu perfil ```@leonunesbs``` em qualquer rede social, ou nos links abaixo.
 
-### [myTree](https://lnbs.me)
-- - [x] [Blog](https://blog.leonunesbs.com.br)
-- - [x] [Portfolio](https://portfolio.leonunesbs.com.br)
-- - [ ] Médico
+- [x] [myTree](https://lnbs.me)
+- [x] [Blog](https://blog.leonunesbs.com.br)
+- [x] [Portfolio](https://portfolio.leonunesbs.com.br)
+- [ ] Médico
 
