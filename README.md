@@ -2,7 +2,6 @@
 
 ## Quem sou?
 - 👋. Olá, me chamo Leonardo Nunes
-- 👤. ```@leonunesbs```
 - 📚. Acadêmico de medicina ```8/12```.
 - 📫. Entre em contato comigo buscando pelo meu perfil ```@leonunesbs```.
 
