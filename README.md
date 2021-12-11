@@ -3,10 +3,8 @@
 ## Quem sou?
 - 👋. Olá, me chamo Leonardo Nunes
 - 👤. ```@leonunesbs```
-- 📚. Acadêmico de medicina ```7/12```.
-- 💻. Vislumbrado por grandes projetos, desafios, aventuras, novos conhecimentos e EXPERIÊNCIAS.
-- 💼. Estágio em consultas ambulatoriais pediátricas e dermatológicas. Web development nas horas vagas.
-- 📫. Entre em contato comigo buscando pelo meu perfil ```@leonunesbs``` em qualquer rede social, ou nos links abaixo.
+- 📚. Acadêmico de medicina ```8/12```.
+- 📫. Entre em contato comigo buscando pelo meu perfil ```@leonunesbs```.
 
 ## Meus projetos
 - [x] [myTree](https://lnbs.me)
