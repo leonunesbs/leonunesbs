@@ -1,11 +1,11 @@
-# Olá visitante, seja bem vindo ao meu perfil do Github!
+# Welcome to my Github profile!
 
-## Quem sou?
-- 👋. Olá, me chamo Leonardo Nunes
-- 📚. Acadêmico de medicina ```8/12```.
-- 🦎. Diretor ```@aaafuria``` 
+## Who am I?
+- 📚. Medicine ```8/12```.
+- 🦎. [@aaafuria](https://instagram.com/aaafuria)
+- 🪂. Skydiver
 
-## Meus projetos
+## My projects
 - [x] [@aaafuria](https://aaafuria.site)
 - [x] [myTree](https://lnbs.me)
 - [x] [Blog](https://blog.leonunesbs.com.br)
