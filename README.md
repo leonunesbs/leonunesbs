@@ -1,46 +1,43 @@
-## Olá, eu sou Leonardo Nunes!
-<div align="center">
-  <a href="https://github.com/leonunesbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonunesbs&show_icons=true&theme=dark&include_all_commits=true&count_private=false&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonunesbs&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="leonunesbs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="leonunesbs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="leonunesbs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="leonunesbs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="leonunesbs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="leonunesbs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="leonunesbs-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="right" alt="leonunesbs-pic" height="150" style="border-radius:50px;" src="https://github.com/leonunesbs.png">
-</div>
-  
- ##
- 
-<div> 
-  <a href="https://instagram.com/leonunesbs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.twitch.tv/leonunesbsTV" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:leonunesbs@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/leonunesbs" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+<h1 align="center">Leonardo Nunes</h1>
+<p align="center">
+  Médico oftalmologista &middot; desenvolvedor de software<br>
+  <sub>Construindo ferramentas clínicas que respeitam o tempo do paciente e do médico.</sub>
+</p>
 
-  
-  
-<div>
+---
 
-  ## 
-  
-    
-  [![@aaafuria Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leonunesbs&repo=aaafuria-reborn-frontend&theme=dark)](https://github.com/leonunesbs/aaafuria-reborn-frontend)
-  
-  [![HVM Pediatria](https://github-readme-stats.vercel.app/api/pin/?username=leonunesbs&repo=hvm-pediatria&theme=dark)](https://github.com/leonunesbs/hvm-pediatria)
-    
-</div>
+### Sobre
+
+Sou oftalmologista com prática clínica e desenvolvedor full-stack focado em **saúde digital**. Trabalho na fronteira entre o consultório e o código: prontuário eletrônico, fluxos de agendamento, automação de tarefas administrativas e ferramentas de apoio à decisão clínica em oftalmologia.
+
+Minha tese: **software médico bom é software que some** — devolve tempo para o cuidado, não cria mais um clique entre o profissional e o paciente.
+
+### Stack atual
+
+- **Linguagem:** TypeScript em todo o stack
+- **Frontend:** Next.js 16, React 19, Tailwind CSS, shadcn/ui
+- **Backend & infra:** AWS (SST + OpenNext, Lambda, Cognito, RDS PostgreSQL, S3, Bedrock, EventBridge, SES) — tudo em `sa-east-1` por LGPD
+- **Dados:** Drizzle ORM, PostgreSQL, event-driven design (DDD + EDA)
+- **IA:** Amazon Bedrock (Claude) para apoio clínico e Polly/Transcribe para acessibilidade
+
+### Projetos em destaque
+
+[![SEOFT](https://github-readme-stats.vercel.app/api/pin/?username=leonunesbs&repo=SEOFT&theme=tokyonight)](https://github.com/leonunesbs/SEOFT)
+[![OFTquest](https://github-readme-stats.vercel.app/api/pin/?username=leonunesbs&repo=OFTquest&theme=tokyonight)](https://github.com/leonunesbs/OFTquest)
+[![nomograma](https://github-readme-stats.vercel.app/api/pin/?username=leonunesbs&repo=nomograma&theme=tokyonight)](https://github.com/leonunesbs/nomograma)
+[![injecoes](https://github-readme-stats.vercel.app/api/pin/?username=leonunesbs&repo=injecoes&theme=tokyonight)](https://github.com/leonunesbs/injecoes)
+
+> Trabalho atualmente em um sistema integrado de gestão para clínicas de oftalmologia (prontuário, agendamento, comunicação com paciente via WhatsApp, assinatura digital ICP-Brasil). Repositório privado — converso sobre o projeto sob demanda.
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonunesbs)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonunesbs@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonunesbs)
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leonunesbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonunesbs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br"/>
+</p>
