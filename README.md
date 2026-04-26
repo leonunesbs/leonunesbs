@@ -1,6 +1,6 @@
 <h1 align="center">Leonardo Nunes</h1>
 <p align="center">
-  Médico oftalmologista &middot; desenvolvedor de software<br>
+  oftalmologista &amp; dev<br>
   <sub>Construindo ferramentas clínicas que respeitam o tempo do paciente e do médico.</sub>
 </p>
 
